@@ -61,7 +61,7 @@ create a little funny project.
 - [x] Conditionals
 - [x] Loops
 - [x] Arrays and Slices
-- [ ] Maps
+- [x] Maps
 - [ ] Structs
 - [ ] Methods
 - [ ] Interfaces
