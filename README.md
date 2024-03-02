@@ -62,10 +62,10 @@ create a little funny project.
 - [x] Loops
 - [x] Arrays and Slices
 - [x] Maps
-- [ ] Structs
-- [ ] Methods
-- [ ] Interfaces
-- [ ] Error Handling
+- [x] Structs
+- [x] Methods
+- [x] Interfaces
+- [x] Error Handling
 - [ ] Packages
 - [ ] Unit Testing
 
