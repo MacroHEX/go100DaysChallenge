@@ -67,7 +67,7 @@ create a little funny project.
 - [x] Interfaces
 - [x] Error Handling
 - [x] Packages
-- [ ] Unit Testing
+- [x] Unit Testing
 
 ### Intermediate Go (Weeks 3-4)
 
