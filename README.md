@@ -71,7 +71,7 @@ create a little funny project.
 
 ### Intermediate Go (Weeks 3-4)
 
-- [ ] Goroutines
+- [x] Goroutines
 - [ ] Channels
 - [ ] Select Statement
 - [ ] Concurrency Patterns
