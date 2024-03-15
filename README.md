@@ -72,14 +72,14 @@ create a little funny project.
 ### Intermediate Go (Weeks 3-4)
 
 - [x] Goroutines
-- [ ] Channels
-- [ ] Select Statement
-- [ ] Concurrency Patterns
-- [ ] HTTP Server
-- [ ] HTTP Client
-- [ ] JSON Handling
-- [ ] File I/O
-- [ ] Web Scraping
+- [x] Channels
+- [x] Select Statement
+- [x] Concurrency Patterns
+- [x] HTTP Server
+- [x] HTTP Client
+- [x] JSON Handling
+- [x] File I/O
+- [x] Web Scraping
 - [ ] Database Interaction
 - [ ] Testing and Benchmarking
 
